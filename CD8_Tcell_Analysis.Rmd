@@ -305,8 +305,49 @@ merged_projected_cd8$sample = factor(merged_projected_cd8$sample, levels = sampl
 Idents(merged_projected_cd8) = "functional.cluster"
 
 ```
-
 # Clonotype analysis
+#---------------largest clones per patient--------------------------------------
+
+
+```{r}
+patient_id = "X_113"
+projected_patient = subset(seurat_projected_all_cd8, subset = patient == patient_id)
+query_list = SplitObject(projected_patient, split.by = "sample")
+
+freqs_patient = lapply(query_list, function(x){
+  table(x$cdr3s_pat)/sum(!is.na(x$cdr3s_pat))
+})
+
+freqs_patient = Reduce(c, freqs_patient)
+sorted_patient = sort(freqs_patient, decreasing = TRUE)
+largest_clones = head(sorted_patient, 6)
+largest_clones
+
+### Plot n largest clones into the reference map
+fig.height = 7
+fig.width = 14
+plots = list()
+
+for(i in 1:length(largest_clones)){
+  ctype = names(largest_clones)[i]
+  patient <- substr(ctype, nchar(ctype) - 7, nchar(ctype))
+  cells = which(merged_projected_cd8[["cdr3s_pat"]] == ctype)
+  plots[[i]] = plot.projection(ref.cd8, merged_projected_cd8[, cells],
+                               pointsize = 1, linesize = 0.3, raster=T) + 
+    ggtitle(sprintf("%s - Freq %.1f %%", 
+                    patient, 100*largest_clones[i])) + 
+    theme(legend.position = "none")
+}
+plots[[1]] <- plots[[1]] + theme(legend.position = "left")  # Add legend to the first plot
+combined_plot = wrap_plots(plots, ncol = 3)
+combined_plot
+fig_name =  paste0(plot_dir, "largest_clones_in_patient_", patient_id, ".png")
+ggsave(fig_name, combined_plot, height = fig.height, width = fig.width, dpi = 300)
+```
+#-------------------------------------------------------------------------------
+
+
+
 Find the largest clones in a sample and show them in reference map
 
 ```{r}
@@ -517,13 +558,13 @@ Look at the expansion for each sample
 fig.height = 6
 fig.width = 8
 clonalOccupy(seurat_projected_all_cd8,
-                    x.axis = "sample", proportion=TRUE,
+                    x.axis = "sample", proportion=FALSE,
                     palette = "heat") + 
                     ggtitle("All sample Colonal Occupy/expansaion proportion") + 
                     theme(legend.position = "right", 
                     axis.text.x = element_text(angle = 45, hjust = 1)) 
 
-fig_name =  paste0(plot_dir, "occupied_repertorire_by_all_sample_proportion.png")
+fig_name =  paste0(plot_dir, "occupied_repertorire_by_all_sample_count.png")
 ggsave(fig_name, height = fig.height, width = fig.width, dpi = 300)
 
 ```
