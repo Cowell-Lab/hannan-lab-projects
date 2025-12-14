@@ -2,7 +2,7 @@
     "name": "KidneyTCR",
     "appId": "igblast-ls6",
     "appVersion": "0.5",
-    "maxMinutes": 720,
+    "maxMinutes": 1440,
     "nodeCount": 8,
     "archiveSystemId": "data-storage.vdjserver.org",
     "archiveSystemDir": "/projects/4661bdd7-7498-412d-b218-f42044550b96/analyses/${JobUUID}",
@@ -142,11 +142,11 @@
             },
             {
                 "key": "locus",
-                "value": "IG"
+                "value": "TR"
             },
             {
                 "key": "ClonalTool",
-                "value": "changeo"
+                "value": "repcalc"
             }
         ]
     }
