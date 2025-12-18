@@ -19,8 +19,9 @@ Ran IGBlast on library 33 and 34 from VDJPipe output.
  
  
 ## RepCalc analysis
+Ran Repcalc Job with the output from the first run of IGBlast
 
-TBD
+* `job-repcalc-KidneyTCR.json`: library 33 and 34 data, job id: 7ee927d9-c1b3-4fa2-a5bc-20bde3e773cd-007
 
 ### RepCalc gene usage
 
