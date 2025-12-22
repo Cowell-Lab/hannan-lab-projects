@@ -162,7 +162,7 @@ def create_igblast_job_file(data, project_id, job_id_dict, project_name='', save
                 {'key' : 'query', 'value' : seq_for_files },
                 {'key' : 'repertoires', 'value' :  rep_ids},
                 {'key' : 'species', 'value' : 'human' },
-                {'key' : 'locus', 'value' : 'IG' },
+                {'key' : 'locus', 'value' : 'TR' },
                 {'key' : 'ClonalTool', 'value' : 'changeo' }
             ]
         }
@@ -216,7 +216,7 @@ def create_repcalc_job_file(data, project_id, job_id, project_name='', save=True
     json_contents = {
         'name' : project_name,
         'appId' : 'repcalc2-ls6',
-        'appVersion' : '0.2',
+        'appVersion' : '0.5',
         'maxMinutes' : 24*60,
         'nodeCount' : 8,
         'archiveSystemId' : 'data-storage.vdjserver.org',
@@ -234,12 +234,12 @@ def create_repcalc_job_file(data, project_id, job_id, project_name='', save=True
             'envVariables' : [
                 {'key' : 'JobFiles', 'value' : zip_files },
                 {'key' : 'species', 'value' : 'human' },
-                {'key' : 'locus', 'value' : 'IG' },
+                {'key' : 'locus', 'value' : 'TR' },
                 {'key' : 'GeneSegmentFlag', 'value' : '1' },
                 {'key' : 'CDR3Flag', 'value' : '1' },
                 {'key' : 'DiversityFlag', 'value' : '1' },
                 {'key' : 'ClonalFlag', 'value' : '1' },
-                {'key' : 'MutationalFlag', 'value' : '1' }
+                {'key' : 'MutationalFlag', 'value' : '0' }
             ]
         }
     }
