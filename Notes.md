@@ -27,7 +27,7 @@ Ran Repcalc Job with the output from the first run of IGBlast with library 33 an
 * `job-repcalc-KidneyTCR.json`: job id: 7ee927d9-c1b3-4fa2-a5bc-20bde3e773cd-007
   
 Ran repcalc again with library 33, 34 and adaptive sample output from igblast jobs. This is with repcalc version 0.5
-* `job-repcalc-KidneyTCR.json`: job id: fb0faad5-9862-4ed9-b212-a3bab95e6c72-007
+* `job-repcalc-KidneyTCR.json`: job id: f4698923-d36a-4bb3-921c-a033f656dcf8-007
 
 ### RepCalc gene usage
 
