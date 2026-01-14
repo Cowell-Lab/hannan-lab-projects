@@ -19,6 +19,7 @@ Ran IGBlast on library 33 and 34 from VDJPipe output.
   
  Ran igblast on adaptive fasta samples 
 * `job-igblast-KidneyTCR.json`: job id: edfebb12-dd91-4a75-9827-338f6fee9f5c/1361103b-f356-4833-93ae-2a50cfd608c1-007
+* `job-igblast-KidneyTCR-all.json`: job id: d4422da7-f634-4cc8-8adf-293c8323503d-007
  
  
 ## RepCalc analysis
@@ -28,6 +29,7 @@ Ran Repcalc Job with the output from the first run of IGBlast with library 33 an
   
 Ran repcalc again with library 33, 34 and adaptive sample output from igblast jobs. This is with repcalc version 0.5
 * `job-repcalc-KidneyTCR.json`: job id: f4698923-d36a-4bb3-921c-a033f656dcf8-007
+* `job-repcalc-KidneyTCR-all.json`: job id: 641a3f0c-069d-4680-933b-c82ab95841b6-007
 
 ### RepCalc gene usage
 
