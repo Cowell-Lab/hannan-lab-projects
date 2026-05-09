@@ -90,7 +90,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "101-1",
+          "sample_id": "101-1_25516-9",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -259,7 +259,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "101-2",
+          "sample_id": "101-2_25516-3",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -428,7 +428,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "101-3",
+          "sample_id": "101-3_25516-7",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -597,7 +597,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "103-1",
+          "sample_id": "103-1_26277-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -766,7 +766,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "103-2",
+          "sample_id": "103-2_26277-8",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -935,7 +935,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "103-3",
+          "sample_id": "103-3_26277-5",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -1104,7 +1104,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "103-4",
+          "sample_id": "103-4_26277-7",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -1273,7 +1273,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "104-1",
+          "sample_id": "104-1_26473-H3",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -1442,7 +1442,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "104-2",
+          "sample_id": "104-2_26473-5",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -1611,7 +1611,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "104-3",
+          "sample_id": "104-3_26473-H4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -1780,7 +1780,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "104-4",
+          "sample_id": "104-4_26473-7",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -1949,7 +1949,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "105-1",
+          "sample_id": "105-1_28473-1H",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -2118,7 +2118,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "105-2",
+          "sample_id": "105-2_28473-5",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -2287,7 +2287,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "105-3",
+          "sample_id": "105-3_28473-8",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -2456,7 +2456,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "105-4",
+          "sample_id": "105-4_28473-16",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -2625,7 +2625,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "106-1",
+          "sample_id": "106-1_30817-1",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -2794,7 +2794,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "106-2",
+          "sample_id": "106-2_30817-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -2963,7 +2963,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "106-3",
+          "sample_id": "106-3_30817-8",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -3132,7 +3132,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "106-4",
+          "sample_id": "106-4_30817-10",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -3301,7 +3301,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "107-1",
+          "sample_id": "107-1_31626-1",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -3470,7 +3470,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "107-2",
+          "sample_id": "107-2_31626-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -3639,7 +3639,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "107-3",
+          "sample_id": "107-3_31626-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -3808,7 +3808,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "108-1",
+          "sample_id": "108-1_31707-1",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -3977,7 +3977,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "108-2",
+          "sample_id": "108-2_31707-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -4146,7 +4146,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "108-3",
+          "sample_id": "108-3_31707-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -4315,7 +4315,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "108-4",
+          "sample_id": "108-4_31707-7",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -4484,7 +4484,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "109-1",
+          "sample_id": "109-1_32393-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -4653,7 +4653,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "109-2",
+          "sample_id": "109-2_32393-5",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -4822,7 +4822,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "109-3",
+          "sample_id": "109-3_32393-15",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -4991,7 +4991,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "109-4",
+          "sample_id": "109-4_32393-18",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -5160,7 +5160,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "110-1",
+          "sample_id": "110-1_32660-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -5329,7 +5329,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "110-2",
+          "sample_id": "110-2_32660-3",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -5498,7 +5498,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "110-3",
+          "sample_id": "110-3_32660-7",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -5667,7 +5667,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "110-4",
+          "sample_id": "110-4_32660-9",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -5836,7 +5836,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "112-1",
+          "sample_id": "112-1_34017-1",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -6005,7 +6005,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "112-2",
+          "sample_id": "112-2_34017-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -6174,7 +6174,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "112-3",
+          "sample_id": "112-3_34017-6",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -6343,7 +6343,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "112-4",
+          "sample_id": "112-4_34017-15",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -6512,7 +6512,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "114-1",
+          "sample_id": "114-1_37138-1",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -6681,7 +6681,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "114-2",
+          "sample_id": "114-2_37138-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -6850,7 +6850,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "114-3",
+          "sample_id": "114-3_37138-6",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -7019,7 +7019,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "114-4",
+          "sample_id": "114-4_37138-9",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -8540,7 +8540,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "116-1",
+          "sample_id": "116-1_38587-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -8709,7 +8709,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "116-2",
+          "sample_id": "116-2_38587-3",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -8878,7 +8878,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "116-3",
+          "sample_id": "116-3_38587-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -9047,7 +9047,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "118-1",
+          "sample_id": "118-1_40532-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -9216,7 +9216,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "118-2",
+          "sample_id": "118-2_40532-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -9385,7 +9385,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "118-3",
+          "sample_id": "118-3_40532-8",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -9554,7 +9554,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "118-4",
+          "sample_id": "118-4_40532-12",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -9723,7 +9723,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "119-1",
+          "sample_id": "119-1_40645-1",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -9892,7 +9892,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "119-2",
+          "sample_id": "119-2_40645-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -10061,7 +10061,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "119-3",
+          "sample_id": "119-3_40645-9",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -10230,7 +10230,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "120-1",
+          "sample_id": "120-1_41904-12",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -10399,7 +10399,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "120-2",
+          "sample_id": "120-2_41904-15",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -10568,7 +10568,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "120-3",
+          "sample_id": "120-3_41904-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -10737,7 +10737,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "120-4",
+          "sample_id": "120-4_41904-9",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -10906,7 +10906,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "121-1",
+          "sample_id": "121-1_42440-95",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -11075,7 +11075,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "121-2",
+          "sample_id": "121-2_42440-96",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -11244,7 +11244,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "121-3",
+          "sample_id": "121-3_42440-92",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -11413,7 +11413,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "121-4",
+          "sample_id": "121-4_42440-94",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -11582,7 +11582,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "122-1",
+          "sample_id": "122-1_43437-8",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -11751,7 +11751,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "122-2",
+          "sample_id": "122-2_43437-10",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -11920,7 +11920,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "122-3",
+          "sample_id": "122-3_43437-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -12089,7 +12089,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "122-4",
+          "sample_id": "122-4_43437-6",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -12258,7 +12258,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "123-1",
+          "sample_id": "123-1_43751-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -12427,7 +12427,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "123-2",
+          "sample_id": "123-2_43751-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -12596,7 +12596,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "123-3",
+          "sample_id": "123-3_43751-15",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -12765,7 +12765,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "123-4",
+          "sample_id": "123-4_43751-17",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -12934,7 +12934,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "124-1",
+          "sample_id": "124-1_45606-2",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -13103,7 +13103,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "124-2",
+          "sample_id": "124-2_45606-4",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -13272,7 +13272,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "124-3",
+          "sample_id": "124-3_45606-20",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -13441,7 +13441,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "124-4",
+          "sample_id": "124-4_45606-22",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -13610,7 +13610,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "125-1",
+          "sample_id": "125-1_49368-92",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -13779,7 +13779,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "125-2",
+          "sample_id": "125-2_49368-94",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -13948,7 +13948,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "125-3",
+          "sample_id": "125-3_49368-97",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -14117,7 +14117,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "125-4",
+          "sample_id": "125-4_49368-100",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -14286,7 +14286,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "126-1",
+          "sample_id": "126-1_49377-92",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -14455,7 +14455,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "126-2",
+          "sample_id": "126-2_49377-94",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -14624,7 +14624,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "126-3",
+          "sample_id": "126-3_49377-99",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
@@ -14793,7 +14793,7 @@
       "sample": [
         {
           "sample_processing_id": null,
-          "sample_id": "126-4",
+          "sample_id": "126-4_49377-102",
           "sample_type": "FFPE",
           "tissue": {
             "id": "UBERON:0002113",
